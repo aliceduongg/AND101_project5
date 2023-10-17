@@ -10,7 +10,7 @@ Time spent: **7** hours spent in total
 
 **My_API** is an android app that **indicate astronomy picture of the day**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:snowman::seedling::blush:**
 
 ## Application Features
 
