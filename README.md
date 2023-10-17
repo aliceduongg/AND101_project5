@@ -39,13 +39,13 @@ My chosen API for this project is **NASA API**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-
+<img src='https://github.com/liceyoung/AND101_project5/blob/main/AND101_project5%20(Thao)%20-%20Imgur.gif' title='Video Demo' width='' alt='Video Demo'/>
 GIF created with **Macs OS recorder**
 
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+<img src='https://github.com/liceyoung/AND101_project5/blob/main/IMG_2E7BC44AE3B6-1.jpeg' title='Chosen Screenshot' width='' alt='My Notes' />
 
 ## License
 
